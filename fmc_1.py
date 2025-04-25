@@ -19,7 +19,7 @@
 #       all-mpnet-base-v2 (SentenceTransformers) - 109M Parameters - 768 Dimensional Embeddings - Active in here
 #       all-MiniLM-L6-v2  (SentenceTransformers) - 22M Parameters - 384 Dimensional Embedding - Available in core-models directory
 # [4] Violated Questions Checking
-#       roberta_toxicity_classifier (s-nlp) - - Active in here
+#       roberta_toxicity_classifier (s-nlp) - 125M - Active in here
 #################################################################################################################################################################
 from langchain_community.document_loaders import PyPDFLoader
 from pdfminer.high_level import extract_pages
