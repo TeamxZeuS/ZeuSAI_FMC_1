@@ -1,0 +1,12 @@
+This special note from the developers of TEAM@ZeuS
+
+All the models are gained from huggingface.co and the full code has been developed by TEAM@ZeuS themselves.
+The code is enhanced enough to have a robust level of RAG structure.
+This would cause that any little change of the code to be crashed immediately.
+
+Then what you must change?
+
+If you need to change some perspectives of the code you mut have 100% idea of the code and according to programmed functions, some changes might not work (likely models), So be cautious if you are going to change the parameters of the code likely the model IDs and else.
+
+
+This code is totally support for any given type of PDF file not only the given text book also.
