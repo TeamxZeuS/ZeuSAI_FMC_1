@@ -47,10 +47,10 @@ For MacOS: python3 fmc_1.py
 
 ### System Requirements (Minimum)
 ---
-- **RAM**: Atleast 8GB or more
-- **Disk Space**: Atleast 10GB or more
-- **CPU**: Atleast i5 8th gen or better processor
-- **GPU**: Atleast 4GB or better GPU
+- **RAM**: Atleast 8GB
+- **Disk Space**: Atleast 10GB
+- **CPU**: Atleast i5 8th gen
+- **GPU**: Atleast 4GB
 ---
 
 
