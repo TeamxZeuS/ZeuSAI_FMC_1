@@ -30,7 +30,7 @@ git clone https://github.com/TeamxZeuS/ZeuSAI_FMC_1
 Download the core-models from the given link in link.txt and move it in to where the 'fmc_1.py' file stays 
 ```
 
-### 2. Install 'reuqirements.txt'
+### 2. Install 'requirements.txt'
 
 ```bash
 For Linux: pip3 install -r requirements.txt
