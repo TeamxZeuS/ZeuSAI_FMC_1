@@ -27,7 +27,7 @@ Follow these steps to set up and run the program locally.
 
 ```bash
 git clone https://github.com/TeamxZeuS/ZeuSAI_FMC_1
-cd zeus-ai
+Download the core-models from the given link in link.txt and move it in to where the 'fmc_1.py' file stays 
 ```
 
 ### 2. Install 'reuqirements.txt'
