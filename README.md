@@ -26,7 +26,7 @@ Follow these steps to set up and run the program locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TeamxZeuS/ZeuSAI_FMC_1.git
+git clone https://github.com/TeamxZeuS/ZeuSAI_FMC_1
 cd zeus-ai
 ```
 
